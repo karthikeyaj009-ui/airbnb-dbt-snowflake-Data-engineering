@@ -1,0 +1,8 @@
+sources:
+  - name: bronze
+    database: AIRBNB
+    schema: BRONZE
+    tables:
+      - name: BOOKINGS
+      - name: HOSTS
+      - name: LISTINGS

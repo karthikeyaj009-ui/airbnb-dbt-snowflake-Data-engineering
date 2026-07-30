@@ -1,0 +1,4 @@
+models:
+  - name: raw_booking
+    config:
+      materialized: table
